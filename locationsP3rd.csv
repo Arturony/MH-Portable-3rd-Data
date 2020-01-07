@@ -1,19 +1,20 @@
-1;Deserted Island;maps_mh3_deserted_island.png;
-2;Sandy Plains;maps_mh3_sandy_plains.png;
-3;Flooded Forest;maps_mh3_flooded_forest.png;
-4;Tundra;maps_mh3_tundra.png;
-5;Volcano;maps_mh3_volcano.png;
-6;Misty Peaks;maps_mh3_misty_peaks.png;
-7;Great Desert;maps_mh3_great_desert.png;
-8;Land Arena;maps_mh3_land_arena.png;
-9;Lava Canyon;MHP3-Lava_Canyon_Map;
-10;Polar Field;maps_mh4_polar_field.png;
-11;Sacred Pinnacle;loc_18.png;
-12;Small Arena;MHP3-Small_Arena_Map;
-13;Sandy Plains (N);MHP3-Sandy_Plains_Night_Map;
-14;Deserted Island (N);maps_mh3_deserted_island.png;
-15;Tundra (N);maps_mh3_tundra.png;
-16;Volcano (N);maps_mh3_volcano.png;
-17;Misty Peaks (N);maps_mh3_misty_peaks.png;
-18;Flooded Forest (N);maps_mh3_flooded_forest.png;
-19;Sacred Land;maps_mh3_sacred_land.png;
+_id,name,map
+1,Deserted Island,maps_mh3_deserted_island.png
+2,Sandy Plains,maps_mh3_sandy_plains.png
+3,Flooded Forest,maps_mh3_flooded_forest.png
+4,Tundra,maps_mh3_tundra.png
+5,Volcano,maps_mh3_volcano.png
+6,Misty Peaks,maps_mh3_misty_peaks.png
+7,Great Desert,maps_mh3_great_desert.png
+8,Land Arena,maps_mh3_land_arena.png
+9,Lava Canyon,MHP3-Lava_Canyon_Map
+10,Polar Field,maps_mh4_polar_field.png
+11,Sacred Pinnacle,loc_18.png
+12,Small Arena,MHP3-Small_Arena_Map
+13,Sandy Plains (N),MHP3-Sandy_Plains_Night_Map
+14,Deserted Island (N),maps_mh3_deserted_island.png
+15,Tundra (N),maps_mh3_tundra.png
+16,Volcano (N),maps_mh3_volcano.png
+17,Misty Peaks (N),maps_mh3_misty_peaks.png
+18,Flooded Forest (N),maps_mh3_flooded_forest.png
+19,Sacred Land,maps_mh3_sacred_land.png
